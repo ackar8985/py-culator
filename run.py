@@ -8,6 +8,9 @@ def sub(a,b):
 
 print(add(1,2))
 
+def main():
+    print("Run, Candace! Run!")
+
 #git status: check status of repository
 #git log: 
 #git add [filename]: Modified -> Staged
