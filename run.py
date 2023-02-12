@@ -10,6 +10,7 @@ print(add(1,2))
 
 def main():
     print("Run, Candace! Run!")
+    print("Run, Rabbit, Run")
 
 #git status: check status of repository
 #git log: 
